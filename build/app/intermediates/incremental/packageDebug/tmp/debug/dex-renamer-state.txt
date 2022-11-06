@@ -1,0 +1,4 @@
+#Sun Nov 06 17:00:43 TRT 2022
+base.0=C\:\\Users\\harmo\\Documents\\my_github_projects\\Cake-Shop-UI\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
